@@ -81,12 +81,7 @@ Prominent authorization warnings in the banner, docstring, and help text. Built 
 ### Installation
 
 ```bash
-# 1. Clone the repository
-git clone https://github.com/AryanWaghere24/CVEye.git
-cd CVEye
-
-# 2. Install dependencies
-pip install -r requirements.txt
+# 1. Download files directly and run
 ```
 
 ### Requirements
